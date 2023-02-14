@@ -6,7 +6,7 @@
  * Email: <yuantong@srun.com>
  */
 
-namespace srun\provider;
+namespace srun;
 
 use yii\data\BaseDataProvider;
 
