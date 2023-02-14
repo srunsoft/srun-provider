@@ -1,0 +1,23 @@
+{
+    "name": "srun/provider",
+    "description": "The srun4-api's ActiveDataProvider is parsed to use the GridView",
+    "keywords": [
+        "srun",
+        "provider"
+    ],
+    "minimum-stability": "stable",
+    "license": "proprietary",
+    "version": "1.0.0",
+    "authors": [
+        {
+            "name": "yuantong",
+            "email": "yuantong@srun.com"
+        }
+    ],
+    "require": {
+        "yiisoft/yii2": "2.0.45"
+    },
+    "autoload": {
+        "psr-4": {"srun\\": ""}
+    }
+}
